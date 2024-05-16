@@ -1,0 +1,2 @@
+Bu ilk cümləmizdir esas text filesinde bu ve ikinci cümle olduğu kimi görsenecek second text filesinde ise böyük hərflərlə yazılacaq.
+ Bu isə ikinci cümləmizdir second text filesinde böyük hərflərlə görsənəcək 
